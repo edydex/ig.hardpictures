@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const albumImagesMap = {
 
+
+
 //album title
 "McDonalds 10/11/21"
 : [
